@@ -1,0 +1,322 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_PDF_BOOKMARK
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_PDF_BOOKMARK
+ identifier : 0x237f8f092fb5eb18
+ internal_properties : CAAAAAgAAAD3yHOdCzaQlqJOe+3c0wXQ9qoG4P99mCYUTT8s4PTYb4GbbUjZttkgo5HRgRUjJU6eugfkUlzpw2BM+ypqSlrm7ak5GR/YCf15/+bnebOIZZjMdtA+E9la4o/Hdv27YkQdPmf4CZnWZ+yjRZ9oWQpWQOd47U8pf50IAg0WEhlvzbmLnNLQG3F8fdrqldvElaboiEa5bk4Vd6qLBE+7rBLQIDXzdG7jKNWw+sY/ejGs4OMtoH6PW0hEyphqLGiZhh0IcgSXRWrivgPbDaRTRlaTj3T7YK7zXFmgxxorGBpXJrHFxvrRYz0JeLU6dAWoI5ifn8cXq/QeqWV5p36wrSscv4j0eyJnl3s/vUZFxRgK42PASXybQuWKp4GsBzmeIJgooObgQ3Mdbv+KKXwGN8PCNPhrZRX4+rFw9gLPqs7a+lQ2XYzTOfm4n06FUitjVh7lZu+0IYH3MD9w1HjzfKzyDViM3Frmwk48sWeJyprIEzQU9KCJSk4sZYylO1yzyeiyZ6NvZC9E1dJVns0wdTjQ3F7QnHBvQpC+TqJHSXVZpTlrHttBS0k+FWjdk47CKXMak0+zKBkatheMGXJ9glCpBYtcyf0P1yIXg9cOIUSpS3etW8q4iReOingSHUailMi4G9Lr5GzzVGpBi3jI4y//u59OukeIcxUuoP7SRczXt1zDtmTD9WlQfZ5W
+ properties :
+  width : 220
+  height : 480
+ controls :
+  -
+    name : IW_PDF_BOOKMARK
+    identifier : 0x237f8f092fb6eb18
+    internal_properties : CAAAAAgAAAC9Vjg4lmKUAE9erP8UymFD8Hvz7mlNq+6U4AV564NJJ9i5D9IPEIh65YzwJ2DJ9PlZJupfmh6COcrIZD9p4/jIIH0+YDF+PnuFS3cDFnQB+Il3Vi+gJJHUDtfjSFkZz9icRJ93SgFLIoqHVgR159t58hFQaS6uENU0UEwIOE+Ot/31DI83+dHc0TKKS7e2q9zS3bL+S1pqBoFL+1aNuOYjyp/oYs5njBh8CvzQZIWSQBI4OAlQPcDQXHDB6ftXvNvcUpA9pJdKnZttClfm7ZlEog0YFO6GEaqy9w8dyrBKWtJfEvbKuA4VP0d5nHM3ecrXND2eWwyDaVpfsJFU8V/oQyR+o5DXBNcFr3uQkryazc/W5tEQa3UGfFw3afjUXRTYSIqgzzug6YTYKnPerJ0nzRjR67JN1UMHqqYuGDltAhbHw73jtlqd/3qh2qUI1eMBVYW8IdhCTaBhlYtt4Fjpn6IKWj1FgX4PVJw=
+    properties :
+     width : 220
+     height : 480
+    controls :
+     -
+       name : STC_BOOKMARKS
+       identifier : 0x237f8f092fb7eb18
+       internal_properties : CAAAAAgAAAAZHDxst3mGmccIlm/C7EyTnwhSOVAssDoA2Dj7eSDZDkm66aI2K6RmTv5CpzcxPDDFOp5oHaXcut3z9IxUVI/n/JZwdjuWvoytgL4dkBbQkUYeBQj8BIWLk6rGphyVD3McY7DuGHCSu+FkSGe7Gqh9n/KwBPSxTB1w70MDYhufhXiVxYR39T5L+IOxL/lPPBuOi6h1ULfVIoL38EC2ubPK3WCWMKl1/wtAbXjpbCA+YS1usEKT5rAA1YBarK0wHV49L46P4xPxj34PvR35cIzpsmuYxlwa5kBoL5/8+GXjteQT3iJrlcuLkEp7ZPLgkd8HeuSANgJgFj7xeK6DZ6D0BplMiv7VLs1Rb6VigsKzMzX3LczWtrNMMgqL53l0EYMKVJce7l52u0rJD+WWl1C+U/EjSGUdudDV6MI0jH5nu6aPAxri8g5OQkDFl3y6PcCPmhdHhQAl/uQGC1TWdBL52n/2QcUrYuS/UJSK5kao3VKQPElOsRyiu1M=
+       properties :
+        x : 12
+        y : 12
+        width : 173
+        height : 28
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : TVT_BOOKMARK
+       identifier : 0x237f8f092fb8eb18
+       internal_properties : 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
+       properties :
+        y : 47
+        width : 220
+        height : 433
+       columns :
+        -
+          name : COL_CAPTION
+          identifier : 0x237f8f092fb9eb18
+          internal_properties : CAAAAAgAAADQO2uu2O6FiZb4DR9Um81Lt/nQo2lFhKDSVNgTQ6CFc3AtjLIggBE87WJoSleEF3jYklVcNdy+Vtaf0MSrxO3adyMD+QonNix2DL+HbkO9JDYkjUjndOQl0QNJvSnkJMirlpPxS2N+iWHTg2OzmTZOagkpfyW/FcoEbmja1/lQbn8RsO+CJKfSnXybMcmVEtn7c9wAuFwzxmzrJ6zK
+          type : 2
+          content :
+           internal_properties : CAAAAAgAAACz/EWZGcPhEiw0yhzfgHOyr4XMgQ4qLkmeprO1z2u8OJgabyFyLMy5YWyPsFl3jQhtxsUQZqX2e8eYbzzhh1WKh1UpIse/vJfnby9dwQLysPXD8QpVgobSnKkpW/tBIBHNKY0fkt3M1tNt8yunOiP5pWMYDMoXMuyd4MMIddYvBbrWahlhsVRQHVTDxEh5pp7aF2wLcmJIiqx4AMeBorusJDnH9hGhFUciYMWw7o8Fgkl7cUBDTMx3+R4BwPpF50Ai2yS1EJgrKdx6R2/BnUNevVze3coNfcyOM6sq+EKSzZYJIyywg1h3UXFG9cf4yN2yGR4K+O1bhVKK7BbZf8X46M4AxrkmK06w7oUbRE/1FFLOMWD7WZcXBFJyMzOnG9flJzZpBV9Fr5yYvY0RddwSTeBhA+ivPLZcPNuzOAkCXMSnjtumI+rGLU4LI4yLNZ43YZt/ek9UWhzPdq0WjZwkdYlbm8PavDqa5Q44MBksmSv6nK0dcU7KKcxn6iU4UeH2BZlap2wZpaDEOLB2AaQqSlfVDiVWc07KzTQS36Nmdu9vx8rJJcxfQztgOTrpZVmIDHZo/pwYKXzTMM8J+mb73bI8wn0P/+sy9WvvJc4N1UD7KUtMVw==
+           type : 2
+          code_elements :
+           internal_properties : CAAAAAgAAAAGIJSk8Nyc4vf2b4Wep8l6Hq7yZENuhVzU5EHuwBp++SlsFNFg+fzg0/PHEN6IgqwhWpcHnHnf6W3YVWGV
+           type_code : 3
+           p_codes :
+            -
+              type : 276
+              enabled : false
+            -
+              type : 277
+              enabled : false
+            -
+              type : 278
+              enabled : false
+       type : 35
+       controls : []
+       code_elements :
+        type_code : 89
+        p_codes :
+         -
+           code : |1+
+            
+            global
+            LoadingInProgress is boolean
+           type : 14
+         -
+           type : 35
+           enabled : false
+         -
+           type : 22
+           enabled : false
+         -
+           type : 24
+           enabled : false
+         -
+           type : 23
+           enabled : false
+         -
+           type : 25
+           enabled : false
+         -
+           code : |1+
+            
+            if LoadingInProgress then return
+            stBookmark is pdfBookmark = AllBookmarks[ TVT_BOOKMARK.Select() ]
+            PDFReaderGoToBookmark(Reader, stBookmark)
+           type : 33
+         -
+           type : 230
+           enabled : false
+         -
+           code : |1+
+            EndAutomatedProcedure(ResizeRow)
+            ResizeRow()
+           type : 65541
+     -
+       name : STC_DEFAULT
+       identifier : 0x237f8f092fbaeb18
+       internal_properties : CAAAAAgAAAAE8ypRWn4Zja2zSCoXGh6tH4dsP0lEQUc2Y+lUiQPixb0ljBLgnvwIHPEOeaSUakaK5mvXssB2HTvWB6ZkzIIi2GFaFVZdMPDGZn8lQ6bKFQavWXL1EUAV7tt2is6AflK8sE7zP/hkUbQZs/l5KMZ7lKS/kZkSXBLTJC4gndf9ronOk2LuRp9FJaGlYdGwPHuJXynW8ynERIPYFwRHPVX08IbpWEmuhVf8lu3KmqjwG2O2wsVCrhm2xGzzE6qB2l+wBkHjX5E2kpDVYkCbaMh6lKDsp1fxue8UcMk741q1fpA2GEZm8VTqZ6zVBdz1hxfbFneLThBPZXm/dNfYiD1FPM+KFPKYdFr66t/+7ajOkBgB9Be/Y6Ea9PfUNKYpXfBjTsRUcCbeKOV1Vh59/Sco8uJmW7+GisOqXCt6Leso013Glxq2w7rHLOo17rId62xds6QxbwHuOyRPwjnoRMNNIQ2czOdPVGRrnpHC036do/pMeuxdkpj60+SpL+mIx+Bicv+tT1gM+OViWmOX
+       properties :
+        x : 67
+        y : -38
+        width : 142
+        height : 32
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_Collapsed
+       identifier : 0x237f8f092fbbeb18
+       internal_properties : CAAAAAgAAACVBS8PrOlQKNSjyqhImuP5TwyUk7AcUqwM6Ew2wx5Aq6nwL4hf96wo9dJBF0FGhJir4FUzrybuBGkaRsMyOMhMflro7GKaHghCCM6uxzl+7wlOBFtH2YoLpqFX/iM0En4Jr7aZrkiROHYgXDD0e/u7KGrkNgQlvHT8dQYCrcyRY4UF4dpSGJZE5sIXRFQ3JZYcrDNA/e6Ib6+Mh6YlWueuZBaDcLwyqoZjBs/h1+rHpWfJnijnCigb2Pz0UbmUUzEdynADsa1h/qFegkX/she0c+XfSWBIewz331Ji10GRxk3ym4PknUKiRdvCVUSk+ifiGzqemRnn+iH9M1OPBN8msS8qqOBb6SU99yfoB8gL/3iEzR/Hd2tLCYwBohmIT3+jqsbPpZnUXboX8aNziUOq37PhKgxg8Skz4el68zvZMHpCuE9NrS2Mm2nPcQJaRG9C4cnRvzpjXiQXFTXMtzxcXde9HRNp5PXGnbv3xvZMVkDPr2mCIzWmWv4xYSRrL9ItTO//L0Ne+wPxO5VL8Iy0zcweQhTYs6W1/bTsZRU1iEGT9b3K5RExfMkYgP/UTokfvqiiCKbWgihW4bgDq1iHqsCmPQv4j4pDRtXeH+qsRbu6Af5MEsRMQmedgPG67X4Al4qfrn+8fQ==
+       properties :
+        y : -33
+        width : 22
+        height : 22
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Expanded
+       identifier : 0x237f8f092fbceb18
+       internal_properties : CAAAAAgAAABYcskYeZ4hPnOwRpo7wL/BdVGNrOTDZcbtn9GC/m2+lFFzHE0ouQ5DLmtekPqFHfAw2dUwonSbJwvEqw4y62eipV3GYsA/JJNZkKMcBMmST0R7ESE+2HJrn0Y2PyFBcbsMecCPiCIFLzwgqPSJwC7PSERnIgiHlb7L9WNATQ9XvuC5/NSJxW2KoaCYVvRfoTiMZR9XtzEzJD4z8ERpZyzV2meUjfzdwI3xCMArWDcCq24uGhHiLy16sXWa0/gBl0sDoIulWzbna046WQHNvzWntmoHMJk1mnMLIm7B4JsnRXGPt/a5PCdC0zyMdRl+pmjgyipj6QSHFoYfU6dYsvv4bos9L1k9RUh3CmrYP8Lo2YeuyNsKesY2R4mpMi9Z2MOwlEYE1Y9zqF2LweXXmnZA4L3abqBcro3+7EG+yQzOaYhF1etibrHeMDX21tmjof5+XzpTp6htb1xiBRFCRiGhC22MYdCCA8riuHXXphn41TZcxUCq1VahbrOR9VI2rIjAwupdM0vpx8hW93iI/rORo2ueD48VNf5mpnHXTwj4fZZ+efpARm0aw5cilSAw/1Q+Bp/weJIWfHVJzVQyT82VZ43EcewQkUD/VM6iP4xr/HL2hnXVnODh0GunQU31qpHzMQqwqOw7
+       properties :
+        x : 35
+        y : -32
+        width : 22
+        height : 22
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         procedure MyWindow()
+         
+         Reader			is Control
+         AllBookmarks	is array of pdfBookmark
+ menu :
+  name : _Menu
+  identifier : 0x234039752300eb6f
+  internal_properties : CAAAAAgAAADczozAuySBkMAifIkConN/5qn0lAqCOgMYUtjYGnfky++lwvX/eyAh5Zg7K+Rm3PqyjbPR45vk6/4Bb61GQxq+DhwZzD8qd+21cvC5chiHx9fjwLx9Eg4oObGd7em2sGtLo2tc0wtErOJ33P8JHSxGu4UvAlDgSis2w3aycW/29zX5d8a2znInqS0CvGNsn8X/KczosssO9faBE2/ldyzXqu3w4gn0kIQMVOawD+KNesjlv4ly2ZLsPiCEs23QheH1gkNI545Sfn9p5i5tGNDBN5eqDCzM9TQ=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : LoadPDF
+     internal_properties : CAAAAAgAAAACQ53Vux4CrTY2d/A/dXt2+MWqpfonuZC1jxrEGFWAz/437fGHw2lY+SrzYWgcTsmkHzFQqnzvUo39gnwZUO/i573V+qpoHTzFhoRnXXCVGgG+3eQn6r0ePF4rfJ3INfyhnoy/5OEuRbpOJr3Z
+     procedure_id : 1404998877649103640
+     type_code : 14
+     code : |1+
+      // Summary: Loads PDF bookmarks
+      // Syntax:
+      //LoadPDF (<PDFReader> is Control)
+      //
+      // Parameters:
+      //	PDFReader (Control): Associated PDF Reader control
+      // Return value:
+      // 	None
+      //
+      procedure LoadPDF( PDFReader is Control )
+      
+      // Stores the associated PDF Reader control and loads the document
+      Reader <- PDFReader
+      docPDF is pdfDocument = Reader..Value
+      
+      // Initializes the display
+      AllBookmarks.DeleteAll()
+      TVT_BOOKMARK.DeleteAll()
+      
+      // If the document has no bookmarks
+      if docPDF.Bookmark..Count = 0 then
+      	return
+      end
+      
+      TVT_BOOKMARK.LoadingInProgress = True
+      
+      // Stores the maximum height for a row that contains a bookmark
+      nMax is int
+      nMax = MaxRowHeight()
+      
+      // Lists the bookmarks
+      __ListBookmarks( docPDF.Bookmark )	
+      
+      // Deletes the initial selection
+      TVT_BOOKMARK.SelectMinus()
+      TVT_BOOKMARK.LoadingInProgress = False
+      
+      	INTERNAL PROCEDURE __ListBookmarks( arrBookmarksEx, nParent is int = 0 )
+      		
+      		stBookmark	is pdfBookmark
+      		nRow		is int
+      		
+      		// If there are no child bookmarks, removes the "expanded" and "collapsed" images
+      		if arrBookmarksEx..Count = 0 then
+      			if nParent > 0 then
+      				TVT_BOOKMARK[ nParent ].ImageDéroulée	= Null
+      				TVT_BOOKMARK[ nParent ].ImageEnroulée	= Null
+      			end
+      			return
+      		end
+      		
+      		// For each bookmark
+      		for each stBookmark of arrBookmarksEx
+      			
+      			AllBookmarks.Add(stBookmark)
+      			
+      			// Parent bookmarks
+      			if nParent = 0 then
+      				
+      				nRow							= TVT_BOOKMARK.AddLine(stBookmark.Title)
+      				// Parents are collapsed by default
+      				TVT_BOOKMARK[ nRow ].Enroulé	= False
+      				
+      			else
+      				
+      				nRow = TVT_BOOKMARK.AddChild(nParent, stBookmark.Title)
+      				
+      			end
+      			
+      			// By default, adds the "collapsed" and "expanded" images
+      			TVT_BOOKMARK[ nRow ].ImageDéroulée	= IMG_Expanded
+      			TVT_BOOKMARK[ nRow ].ImageEnroulée	= IMG_Collapsed
+      			
+      			// Adapts the row height to the title of the bookmark
+      			TVT_BOOKMARK[ nRow ].Hauteur		= Min(nMax, Max(CoordinateEditorToScreen(32), TextHeight(STC_DEFAULT, stBookmark.Title, tWithMargin + tMultiline) + CoordinateEditorToScreen(8)))
+      			
+      			// Enumerates the children
+      			__ListBookmarks( stBookmark.ChildBookmark, nRow )
+      			
+      		end
+      		
+      	end
+     type : 458752
+   -
+     name : ResizeRow
+     internal_properties : CAAAAAgAAAAw3ciPMuWjU4J5ex0LTlIGE7vkL7I+ujMoW20FOISyBd4lzZ5MnyKqIGjHJoiF6B45vlYKqkLYhL86DFiCbUITtT35hSGgTQzGYeZpouxH+LtX1TgBoSEw
+     procedure_id : 1404998877649169176
+     type_code : 14
+     code : |1+
+      // Summary: Resizes rows automatically
+      // Syntax:
+      //ResizeRow ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //// Automatic procedure:
+      // The procedure is executed manually, during a call in the code, with a timeout of 20 hundredths of a second
+      // 
+      
+      procedure ResizeRow()
+      
+      nMax is int
+      nMax						= MaxRowHeight()
+      
+      TVT_BOOKMARK.DisplayEnabled	= False
+      
+      for each ligne nRow of TVT_BOOKMARK
+      	// Adapts the row height to the title of the bookmark
+      	TVT_BOOKMARK[ nRow ].Hauteur = Min(nMax, Max(CoordinateEditorToScreen(32), TextHeight(STC_DEFAULT, TVT_BOOKMARK[nRow].COL_CAPTION, tWithMargin + tMultiline) + CoordinateEditorToScreen(8)))
+      end
+      
+      TVT_BOOKMARK.DisplayEnabled = True
+     type : 458752
+   -
+     name : MaxRowHeight
+     procedure_id : 1404998877649234712
+     type_code : 14
+     code : |1-
+      // Summary: Returns the maximum height available for a row that contains a bookmark
+      // Syntax:
+      //[ <Result> = ] MaxRowHeight ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	8-byte int: Maximum height allowed
+      //
+      procedure MaxRowHeight()
+      
+      // Allows a maximum of 4 rows
+      return TextHeight(STC_DEFAULT, "Row 1[%RC%]Row 2[%RC%]Row 3[%RC%]Row 4", tWithMargin + tMultiline) + CoordinateEditorToScreen(8)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenêtreInterne1
+resources :
+ string_res :
+  identifier : 0x13403975098beb6f
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
